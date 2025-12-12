@@ -1,0 +1,6 @@
+C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\obj\Debug\MediTrackDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\obj\Debug\MediTrackDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

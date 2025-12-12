@@ -1,0 +1,16 @@
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\bin\Debug\MediTrackClinic.exe.config
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\bin\Debug\MediTrackClinic.exe
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\bin\Debug\MediTrackClinic.pdb
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\bin\Debug\MediTrackBussinesLayer.dll
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\bin\Debug\DataAccessLayer.dll
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\bin\Debug\MediTrackBussinesLayer.pdb
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\bin\Debug\DataAccessLayer.pdb
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\obj\Debug\MediTrackClinic.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\obj\Debug\MediTrackClinic.Form1.resources
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\obj\Debug\MediTrackClinic.Properties.Resources.resources
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\obj\Debug\MediTrackClinic.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\obj\Debug\MediTrackClinic.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\obj\Debug\MediTrac.9616B956.Up2Date
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\obj\Debug\MediTrackClinic.exe
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\obj\Debug\MediTrackClinic.pdb
+C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackClinic\obj\Debug\MediTrackClinic.exe.config
