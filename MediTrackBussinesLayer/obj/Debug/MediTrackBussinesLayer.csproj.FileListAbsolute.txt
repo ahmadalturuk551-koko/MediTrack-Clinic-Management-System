@@ -7,3 +7,12 @@ C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackBussinesLayer\obj\Debug\Med
 C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackBussinesLayer\obj\Debug\MediTrac.E6ACB364.Up2Date
 C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackBussinesLayer\obj\Debug\MediTrackBussinesLayer.dll
 C:\Users\ahmed\source\repos\MediTrackClinic\MediTrackBussinesLayer\obj\Debug\MediTrackBussinesLayer.pdb
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\MediTrackBussinesLayer\bin\Debug\MediTrackBussinesLayer.dll
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\MediTrackBussinesLayer\bin\Debug\MediTrackBussinesLayer.pdb
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\MediTrackBussinesLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\MediTrackBussinesLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\MediTrackBussinesLayer\obj\Debug\MediTrackBussinesLayer.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\MediTrackBussinesLayer\obj\Debug\MediTrackBussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\MediTrackBussinesLayer\obj\Debug\MediTrac.E6ACB364.Up2Date
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\MediTrackBussinesLayer\obj\Debug\MediTrackBussinesLayer.dll
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\MediTrackBussinesLayer\obj\Debug\MediTrackBussinesLayer.pdb

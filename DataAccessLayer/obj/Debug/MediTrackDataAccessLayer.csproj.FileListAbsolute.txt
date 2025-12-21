@@ -4,3 +4,9 @@ C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\obj\Debug\MediTrackD
 C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\obj\Debug\MediTrackDataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\ahmed\source\repos\MediTrackClinic\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\DataAccessLayer\obj\Debug\MediTrackDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\DataAccessLayer\obj\Debug\MediTrackDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ahmed\OneDrive\Desktop\MediTrack Clinic Management System\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
